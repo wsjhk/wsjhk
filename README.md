@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,I`m wjhk. 👋
 
 <!--
 **wsjhk/wsjhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 '''
-## 将 gengyanlei 更改成 你的账户名称即可！
 ## 用于统计github个人账户的star总数量等信息
 <img src="https://github-readme-stats.vercel.app/api?username=wsjhk&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 ## author is wsjhk 👋
