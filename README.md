@@ -1,28 +1,18 @@
 ### Hi there, I'm [wsjhk](https://github.com/wsjhk) 👋
 
 ```text
-         __             __         __      __              __      __      _            __        
-       /'_ `\          /\ \      /'_ `\  /'_ `\          /'_ `\  /'_ `\  /' \          /\ \       
-   __ /\ \L\ \     __  \ \ \____/\ \L\ \/\ \L\ \     __ /\ \L\ \/\ \L\ \/\_, \     __  \ \ \____  
- /'__`\ \___, \  /'__`\ \ \ '__`\ \___, \/_> _ <_  /'__`\ \___, \ \___, \/_/\ \  /'__`\ \ \ '__`\ 
-/\  __/\/__,/\ \/\ \L\.\_\ \ \L\ \/__,/\ \/\ \L\ \/\  __/\/__,/\ \/__,/\ \ \ \ \/\ \L\.\_\ \ \L\ \
-\ \____\    \ \_\ \__/.\_\\ \_,__/    \ \_\ \____/\ \____\    \ \_\   \ \_\ \ \_\ \__/.\_\\ \_,__/
- \/____/     \/_/\/__/\/_/ \/___/      \/_/\/___/  \/____/     \/_/    \/_/  \/_/\/__/\/_/ \/___/ 
-  
-```
-
-### About me
+About me
 
 - `Linux` && `K8S` && `Python` && `Golang` && `Database` && `NetWork` && `eBPF`
-- wechat：ws-jhk 
-
+- wechat：ws-jhk   
+```
 
 <img src="https://github-readme-stats.vercel.app/api?username=wsjhk&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-## author is wsjhk 👋
-- 🎓 CSU(master's degree)
-- 📖 [**wsjhk's blog**](https://www.cnblogs.com/wsjhk)
-- 🔭 Computer vision(目标检测-语义分割-分类)
+## Author is wsjhk 👋
+- 🔭  [**wsjhk's 微信公众号**](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAxMjk0MTYzNw==&scene=124#wechat_redirect)
+- 📖  [**wsjhk's blog**](https://www.cnblogs.com/wsjhk)
+- 🎓  Computer vision(目标检测-语义分割-分类)
 
 <img src="https://github-profile-trophy.vercel.app/?username=wsjhk&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
 
