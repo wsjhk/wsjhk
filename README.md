@@ -7,14 +7,12 @@ About me
 - wechat：ws-jhk   
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=wsjhk&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-
 ## Author is wsjhk 👋
 - 🔭  [**wsjhk's 微信公众号**](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAxMjk0MTYzNw==&scene=124#wechat_redirect)
 - 📖  [**wsjhk's blog**](https://www.cnblogs.com/wsjhk)
-- 🎓  Computer vision(目标检测-语义分割-分类)
 
-<img src="https://github-profile-trophy.vercel.app/?username=wsjhk&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=wsjhk&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsjhk&layout=compact)](https://github.com/wsjhk/github-readme-stats)
 
+<img src="https://github-profile-trophy.vercel.app/?username=wsjhk&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
