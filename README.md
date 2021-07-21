@@ -1,4 +1,4 @@
-### Hi there, I'm [wsjhk](https://github.com/wsjhk) 👋
+### Hi, I'm [wsjhk](https://github.com/wsjhk) 👋
 
 ```text
 About me
