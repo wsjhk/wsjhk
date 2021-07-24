@@ -13,6 +13,8 @@ About me
 - ![image](https://user-images.githubusercontent.com/6111227/126482301-803ebef0-16e7-4eae-92b5-7716fb2b07be.png)
 - 📖  [**wsjhk's blog**](https://www.cnblogs.com/wsjhk)
 
+<!---
 <img src="https://github-profile-trophy.vercel.app/?username=wsjhk&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsjhk&layout=compact)](https://github.com/wsjhk/github-readme-stats)
+-->
