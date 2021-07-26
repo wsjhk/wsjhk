@@ -13,10 +13,6 @@ About me
 - ![image](https://user-images.githubusercontent.com/6111227/126482301-803ebef0-16e7-4eae-92b5-7716fb2b07be.png)
 - 📖  [**wsjhk's blog**](https://www.cnblogs.com/wsjhk)
 
-[![](https://raw.githubusercontent.com/wsjhk/wsjhk/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/wsjhk/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/wsjhk/wsjhk/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/wsjhk/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/wsjhk/wsjhk/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/wsjhk/github-profile-summary-cards)
-
 ![](https://komarev.com/ghpvc/?username=wsjhk&color=green)
 
 <!---
